@@ -10,7 +10,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.vinay</groupId>
+	<groupId>com.pkg</groupId>
 	<artifactId>JUnit-Testing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JUnit-Testing</name>
